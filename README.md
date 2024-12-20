@@ -4,7 +4,7 @@ This project involves solving a game using Constraint Satisfaction Problems (CSP
 
 ## Game Description
 
-The game is called Unruly, and it can be found [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.h). The objective is to solve the game using CSP-based methods by providing an input file with a specific format and obtaining the solved game as output.
+The game is called Unruly, and it can be found [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html). The objective is to solve the game using CSP-based methods by providing an input file with a specific format and obtaining the solved game as output.
 
 ## Input Format
 
